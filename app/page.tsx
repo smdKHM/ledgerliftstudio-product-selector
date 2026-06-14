@@ -5,7 +5,7 @@ export default function ProductSelector() {
     <div style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif', background: 'linear-gradient(135deg, #f8f7f5 0%, #f3f1ed 100%)', padding: '40px 20px', minHeight: '100vh' }}>
       <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
         <div style={{ textAlign: 'center', marginBottom: '50px' }}>
-          <h1 style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a', marginBottom: '12px', letterSpacing: '-0.5px' }}>Which LedgerLift Product Is Right for You?</h1>
+          <h1 style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a', marginBottom: '12px', letterSpacing: '-0.5px' }}>Which LedgerLift Studio Product Is Right for You?</h1>
           <p style={{ fontSize: '16px', color: '#666', maxWidth: '600px', margin: '0 auto', lineHeight: 1.6 }}>Find your financial system in 30 seconds. Your revenue level and how organized your books will tell you exactly which product fits.</p>
         </div>
 
